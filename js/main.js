@@ -7,7 +7,6 @@ class List{
 }
 const toDo = [];
 
-debugger
 toDo.push(new List (prompt("Day"), prompt("Time"), prompt("Task")));
 toDo.push(new List (prompt("Day"), prompt("Time"), prompt("Task")));
 toDo.push(new List (prompt("Day"), prompt("Time"), prompt("Task")));
